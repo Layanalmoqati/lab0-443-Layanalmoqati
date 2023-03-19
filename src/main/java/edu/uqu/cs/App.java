@@ -77,6 +77,9 @@ public static void twisters(){
     case'B':
     case'C':
     output+='2';
+
+
+    
     break;
     case'D':
     case'E':
